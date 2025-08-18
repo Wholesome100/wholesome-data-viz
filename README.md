@@ -10,4 +10,4 @@ These insights include:
 4. Plotting the relationship between rent and cost of living indexes
 5. Using a line graph to show the progression of cost of living across cities
 
-All values utilize New York as a baseline.
+All values utilize New York as a baseline, and the notebook can be accessed here: https://wholesome100.github.io/polars-col-analysis/
